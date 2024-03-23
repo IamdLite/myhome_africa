@@ -12,13 +12,17 @@ Our **vision** is to identify and create a vibrant and inclusive community of Af
 
 The data collected from the platform helps us to derive insights from the _distribution of African scholars across foreign territories._ It's analysis will particularly be useful to Africans aspiring to `go abroad` in search of greener pastures--_academic, social or professional_--by helping them to make informed travel decisions and find supportive communities of 'their own'. **Governments** can equally leverage this data to strategise, retain or call back African talents.
 
-Join us on this exciting journey towards a creating an open-source system for data-driven insights into African brain drain and Potential! You can get in touch with me at diffouo44@gmail.
+Join us on this exciting journey towards a creating an open-source system for data-driven insights into African brain drain and Potential! You can get in touch with me at _diffouo44@gmail_.
 
 ## Features
 
-- Feature 1
-- Feature 2
-- ...
+- Register users and collect survey data via forms
+- Analyse and provide in realtime a visualization of the collected data on the landing page.
+- Enable users to query and access non-sensitive data from the database using filters such as nationality, country, profession and others.
+- Provide an interractive map that monitors in realtime the distribution of African diaspora across foreign countries on a basis of nationality.
+- Record and display information about diaspora associations, unions and communities.
+- A forum for the community to ask for help or share updates.
+- A blog.
 
 ## Installation
 
