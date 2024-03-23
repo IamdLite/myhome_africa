@@ -1,8 +1,8 @@
 # MyHome Africa v0.0
 
-`MyHome Africa` is an open-source research and data collection system developed under the ![NASA OLS Nebula-2024 Pilot Program](https://openlifesci.org/nasa/)
+`MyHome Africa` is an open-source research and data collection system developed under the [NASA OLS Nebula-2024 Pilot Program](https://openlifesci.org/nasa/)
 
-The Nebula program provides structured training covering the ![NASA TOPS Open Science 101 Curriculum](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/readme.md). Every week for about 3 months, we explore open science modules, with expert speakers from diverse scientific domains with the aim of empowering learners to actively implement open science concepts and tools in their work.
+The Nebula program provides structured training covering the [NASA TOPS Open Science 101 Curriculum](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/readme.md). Every week for about 3 months, we explore open science modules, with expert speakers from diverse scientific domains with the aim of empowering learners to actively implement open science concepts and tools in their work.
 
 ## Mission and Vision
 
